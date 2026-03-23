@@ -19,3 +19,33 @@ My current focus is creating AI products that integrate seamlessly into workflow
 <h4><a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
  Big Data Analysis & Prediction<img src="assets/img/heart-health-image.png"></a></h4>
 
+<b>1. Programming & Libraries</b>
+- Python: The primary programming language used for the study.
+
+- SciKit-Learn (sklearn): Used for building, training, and evaluating the machine learning models.
+
+- Pandas & NumPy: Utilized for data wrangling, cleaning (dropping nulls/duplicates), and data manipulation.
+
+- Matplotlib & Seaborn: Used for Exploratory Data Analysis (EDA) to create visualizations like correlation heatmaps, bar charts, and dendrograms.
+
+<b>2. Machine Learning Models</b>
+- The team tested multiple classification algorithms to determine the best predictor for heart attacks:
+
+- Logistic Regression: Used as the baseline model.
+
+- Decision Tree Classifier: Improved accuracy and recall over the baseline.
+
+- Random Forest Classifier: Identified as the most robust model with an AUC score of 0.99 and 97% accuracy.
+
+<b>3. Data Engineering & Analytics Techniques</b>
+- SMOTE (Synthetic Minority Oversampling Technique): A critical tool used to handle the "imbalanced dataset" problem (where heart attack cases were much rarer than non-cases). It created synthetic data points to balance the classes.
+
+- Feature Engineering: * One-Hot Encoding & Label Encoding: Used to convert categorical strings (like RaceEthnicityCategory or SmokerStatus) into numerical data for the models.
+
+-- Dendrograms: Used for hierarchical clustering to identify and remove highly correlated (redundant) features.
+
+- Evaluation Metrics: The study relied on Confusion Matrices, Recall, Precision, F1 Score, and ROC/AUC Curves to validate the models.
+
+<b>4. Data Source</b>
+2022 CDC Annual Survey: Specifically the "Key Indicators of Heart Disease" dataset, which provided the raw data for the 40+ variables analyzed in the study.
+
