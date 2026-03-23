@@ -56,3 +56,11 @@ My current focus is creating AI products that integrate seamlessly into workflow
 <b>4. Data Source</b>
 2022 CDC Annual Survey: Specifically the "Key Indicators of Heart Disease" dataset, which provided the raw data for the 40+ variables analyzed in the study.
 
+
+<h3>
+ Multi-Modal Image Synthesis & Semantic Segmentation
+ </h3>
+ 
+ <img src="assets/img/comp-vision.png">
+
+<p>Engineered a computer vision pipeline utilizing Mask R-CNN for image segmentation and Pose Estimation algorithms to seamlessly integrate dynamic objects into complex environments, optimizing for spatial consistency and blending.</p>
