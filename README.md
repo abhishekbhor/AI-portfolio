@@ -59,7 +59,7 @@ My current focus is creating AI products that integrate seamlessly into workflow
  
  <img src="assets/img/comp-vision.png">
 
-<p>Engineered a computer vision pipeline utilizing Mask R-CNN for image segmentation and Pose Estimation algorithms to seamlessly integrate dynamic objects into complex environments, optimizing for spatial consistency and blending.</p>
+<p>Created an app where I engineered a computer vision pipeline utilizing Mask R-CNN for image segmentation and Pose Estimation algorithms to seamlessly integrate dynamic objects into complex environments, optimizing for spatial consistency and blending.</p>
 
 <b>1. Image Segmentation</b> with <b>Meta's SAM2</b>
 - <b> Predictor Mask</b> : The Predictor Mask allowed user to select their object to create mask. Didn’t use 'Automatic Mask Detector' because it was segmenting every object in the picture.
