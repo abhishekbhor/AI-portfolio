@@ -12,5 +12,8 @@ My current focus is creating AI products that integrate seamlessly into workflow
 - Defined product strategy and multi-year roadmaps focused on embedding AI into clinician-adjacent workflows, reducing administrative burden and improving throughput, accuracy, and downstream revenue outcomes.
 
 ### Projects
-- Field Agent Portal & Provider Affiliation Automation
-- Enterprise Data Warehouse Cloud Migration, Databricks Lakehouse
+#### Field Agent Portal & Provider Affiliation Automation
+#### Enterprise Data Warehouse Cloud Migration, Databricks Lakehouse
+#### Big Data Analysis & Prediction
+[publication] (https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729)
+
