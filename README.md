@@ -17,7 +17,8 @@ My current focus is creating AI products that integrate seamlessly into workflow
 
 
 <h3><a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
- Big Data Analysis & Prediction<img src="assets/img/heart-health-image.png"></a></h3>
+ Big Data Analysis & Prediction
+ <img src="assets/img/heart-health-image.png"></a></h3>
 
 <b>1. Programming & Libraries</b>
 - <b>Python</b>: The primary programming language used for the study.
