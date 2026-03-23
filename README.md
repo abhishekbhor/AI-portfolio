@@ -16,10 +16,13 @@ My current focus is creating AI products that integrate seamlessly into workflow
 #### Enterprise Data Warehouse Cloud Migration, Databricks Lakehouse
 
 
-<h3><a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
- Big Data Analysis & Prediction
- <br>
- <img src="assets/img/heart-health-image.png"></a></h3>
+<h3>
+ <a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
+ Big Data Analysis & Prediction</a>
+ </h3>
+
+ <a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729"> 
+ <img src="assets/img/heart-health-image.png"></a>
 
 <b>1. Programming & Libraries</b>
 - <b>Python</b>: The primary programming language used for the study.
