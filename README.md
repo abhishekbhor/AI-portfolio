@@ -2,9 +2,9 @@
 My current focus is creating AI products that integrate seamlessly into workflow ecosystems—LLM agents, intelligent recommendations, automated decisioning, and hybrid human-in-the-loop systems that improve accuracy, reduce friction, and scale safely. I’m particularly interested in opportunities at the intersection of AI systems, platform modernization, and healthcare or mission-critical operations.
 
 ### Education
-- M.S., Artificial Intelligence | University of Pennsylvania (Upenn)
-- M.S., Computer Science | University of Pennsylvania (Upenn)
-- M.S., Architecture | Texas A&M University (TAMU)
+- M.S., Artificial Intelligence - University of Pennsylvania (Upenn)
+- M.S., Computer Science - University of Pennsylvania (Upenn)
+- M.S., Architecture - Texas A&M University (TAMU)
 
 ### Work Experience
 - Led end-to-end development of AI-enabled workflow products, from concept exploration through launch, adoption, and scale, supporting 50K+ users across 5K organizations.
