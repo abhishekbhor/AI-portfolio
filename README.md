@@ -31,20 +31,20 @@ My current focus is creating AI products that integrate seamlessly into workflow
 <b>2. Machine Learning Models</b>
 - The team tested multiple classification algorithms to determine the best predictor for heart attacks:
 
-- Logistic Regression: Used as the baseline model.
+- <b>Logistic Regression</b>: Used as the baseline model.
 
-- Decision Tree Classifier: Improved accuracy and recall over the baseline.
+- <b>Decision Tree Classifier</b>: Improved accuracy and recall over the baseline.
 
-- Random Forest Classifier: Identified as the most robust model with an AUC score of 0.99 and 97% accuracy.
+- <b>Random Forest Classifier</b>: Identified as the most robust model with an AUC score of 0.99 and 97% accuracy.
 
 <b>3. Data Engineering & Analytics Techniques</b>
-- SMOTE (Synthetic Minority Oversampling Technique): A critical tool used to handle the "imbalanced dataset" problem (where heart attack cases were much rarer than non-cases). It created synthetic data points to balance the classes.
+- <b>SMOTE (Synthetic Minority Oversampling Technique)</b>: A critical tool used to handle the "imbalanced dataset" problem (where heart attack cases were much rarer than non-cases). It created synthetic data points to balance the classes.
 
-- Feature Engineering: * One-Hot Encoding & Label Encoding: Used to convert categorical strings (like RaceEthnicityCategory or SmokerStatus) into numerical data for the models.
+- <b>Feature Engineering</b>: * One-Hot Encoding & Label Encoding: Used to convert categorical strings (like RaceEthnicityCategory or SmokerStatus) into numerical data for the models.
 
-- Dendrograms: Used for hierarchical clustering to identify and remove highly correlated (redundant) features.
+- <b>Dendrograms</b>: Used for hierarchical clustering to identify and remove highly correlated (redundant) features.
 
-- Evaluation Metrics: The study relied on Confusion Matrices, Recall, Precision, F1 Score, and ROC/AUC Curves to validate the models.
+- <b>Evaluation Metrics</b>: The study relied on Confusion Matrices, Recall, Precision, F1 Score, and ROC/AUC Curves to validate the models.
 
 <b>4. Data Source</b>
 2022 CDC Annual Survey: Specifically the "Key Indicators of Heart Disease" dataset, which provided the raw data for the 40+ variables analyzed in the study.
