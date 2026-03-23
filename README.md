@@ -15,6 +15,8 @@ My current focus is creating AI products that integrate seamlessly into workflow
 #### Field Agent Portal & Provider Affiliation Automation
 #### Enterprise Data Warehouse Cloud Migration, Databricks Lakehouse
 #### Big Data Analysis & Prediction
-[publication] (https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729)
-<a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">[publication]</a>
+
+
+<a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729"><img src="assets/img/heart-health-image.png">
+Big Data Analytics Study</a>
 
