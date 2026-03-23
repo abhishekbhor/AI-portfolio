@@ -64,8 +64,8 @@ Multi-Modal Image Synthesis & Semantic Segmentation
 <p>Engineered a computer vision pipeline utilizing Mask R-CNN for image segmentation and Pose Estimation algorithms to seamlessly integrate dynamic objects into complex environments, optimizing for spatial consistency and blending.</p>
 
 <b>1. Image Segmentation</b> with <b>Meta's SAM2</b>
-- <b> Predictor Mask</b> : Didn’t use 'Automatic Mask Detector' because it was segmenting every object in the picture.
-User had to try and select, which configuration to use for final mask. While the Predictor Mask allowed user to select their object to create mask.
+- <b> Predictor Mask</b> : The Predictor Mask allowed user to select their object to create mask. Didn’t use 'Automatic Mask Detector' because it was segmenting every object in the picture.
+User had to try and select, which configuration to use for final mask. 
 
 <b>2. Pose Adjustment</b> with <b>ChatPose</b>
 - Researched analyzed, and didn't use as integration with Google Colab was found tricky.
