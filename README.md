@@ -7,7 +7,7 @@ My current focus is creating AI products that integrate seamlessly into workflow
 - M.S., Architecture - Texas A&M University (TAMU)
 
 
-### Projects
+## Projects
 
 <h3>
  <a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
