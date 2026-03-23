@@ -11,7 +11,7 @@ My current focus is creating AI products that integrate seamlessly into workflow
 
 <h3>
  <a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729">
- Big Data Analysis & Prediction</a>
+ I. Big Data Analysis & Prediction</a>
  </h3>
 
  <a href="https://medium.com/@nkoro/heart-health-education-is-there-something-were-missing-ee41292c7729"> 
@@ -50,13 +50,12 @@ My current focus is creating AI products that integrate seamlessly into workflow
 2022 CDC Annual Survey: Specifically the "Key Indicators of Heart Disease" dataset, which provided the raw data for the 40+ variables analyzed in the study.
 
 <br>
-<br>
 
 <hr style="border: none; border-top: 1px dotted grey;">
 
 <br>
 <h3>
-Multi-Modal Image Synthesis & Semantic Segmentation
+II. Multi-Modal Image Synthesis & Semantic Segmentation
 </h3>
  
  <img src="assets/img/comp-vision.png">
